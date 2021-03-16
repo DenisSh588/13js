@@ -1,0 +1,20 @@
+#myProgress{
+    position: relative;
+    width: 1000px;
+    height: 30px;
+    background-color: rgb(30, 255, 0);
+    margin-bottom: 50px;
+}
+
+#myBar{
+    position: absolute;
+    width: 10%;
+    height: 100%;
+    background-color: #ff0000;
+}
+
+#label{
+    text-align: center;
+    line-height: 30px;
+    color: white;
+}
